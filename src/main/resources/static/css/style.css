@@ -4,15 +4,22 @@
 @import url(http://fonts.googleapis.com/css?family=Raleway:500,600,700,800,400,200,300);
 @import url(http://fonts.googleapis.com/css?family=Francois+One&subset=latin,latin-ext);
 
-/* Global properties ======================================================== */
+/* Global properties ========================================================
+I change the background-color from #fff to #ff0000 
+*/
 
 body {
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
   font-size: 14px;
   line-height: 1.42857143;
   color: #333;
+<<<<<<< HEAD
   background-color: #ff0000;
 
+=======
+  background-color: #fff; 
+    
+>>>>>>> dd1eff2f9043386d267a2259d8fa1429860f0a35
 }
 
 .imgWrap {
